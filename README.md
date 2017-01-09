@@ -1,5 +1,5 @@
 # montecarlopi
-Example code written in Fortran. For finding a value of pi by the Monte Carlo Method.
+Example code written in Fortran, for finding a value of pi by the Monte Carlo Method.
 This method follows the example outlined here:
 https://en.wikipedia.org/wiki/Monte_Carlo_method
 This is a common trial of the Monte Carlo method, and takes advantage of Fortran's relative speed.
